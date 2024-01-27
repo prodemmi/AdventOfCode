@@ -2,7 +2,6 @@
 
 Hello everyone.
 
-I have decided to solve the (adventofcode.com)[Advent of Code] site challenges and share the answers with anyone.
+I have decided to solve the [Advent of Code](https://adventofcode.com) site challenges and share the answers with everyone.
 
-Here I am using Python for scripting.
-Enjoy the answers <3.
+Here we are using Python for scripting.
